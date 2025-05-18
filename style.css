@@ -9,7 +9,7 @@
     height: 100vh;
     width: 100%;
     position: relative;
-    background: url(tronwallpaper.png);
+    background: url(background.png);
     display: flex;
     justify-content: center;
     align-items: center;
