@@ -33,7 +33,7 @@
     height: 300px;
     width: 300px;
     border-radius: 50%;
-    background: linear-gradient( #f57676,#f55757);
+    background: linear-gradient( #8376f5,#8157f5);
     transform: translate(490px,150px);
 }
 .container .box nav{
@@ -59,7 +59,7 @@
     transition: 0.3s
 }
 .container .box nav ul li a:hover{
-    color: #f32b08;
+    color: #8108f3;
 }
 .container .box nav .logo{
     font-size: 35px;
@@ -88,7 +88,7 @@
     color: #242329;
 }
 .contains .section-1 h3{
-    color: #df0c0c;
+    color: #680cdf;
     margin-bottom: 10px;
     font-size: 24px;
 }
@@ -99,14 +99,14 @@
 }
 .contains .section-1 .btn{
     padding: 15px 20px;
-    background-color: #ff1c1c;
-    border: 1px solid #fe3434;
+    background-color: #7e1cff;
+    border: 1px solid #7b34fe;
     color: #fff;
     border-radius: 5px;
     font-weight: 500;
 }
 .contains .section-1 .btn:hover{
-    color: #fe3434;
+    color: #8c34fe;
     transition: 0.3s;
     background-color: #cdddf3;
     border: 1px solid ;
@@ -129,9 +129,9 @@
 .contains .section-3 a i{
     font-size: 25px;
     cursor: pointer;
-    color: #ff491c;
+    color: #861cff;
     transition: 0.3s;
 }
 .contains .section-3 i:hover{
-    color: #fe3434;
+    color: #8134fe;
 }
